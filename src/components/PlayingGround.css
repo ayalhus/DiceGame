@@ -1,0 +1,30 @@
+
+
+.playing_dice_image {
+    width: 30%;
+    margin: auto;
+    padding-top: 5%;
+    display: flex;
+    
+}
+
+.blurred {
+    filter: blur(4px);
+
+}
+
+.btn {
+    height: 60px;
+    width: 300px;
+    border-radius: 10px;
+    padding-top: 4px;
+    margin-top: 20px;
+    background-color: rgb(64, 211, 211);
+    font-weight: bold;
+    font-size: larger;
+}
+.para {
+    color: rgb(253, 250, 255);
+    font-size: 30px;
+    
+}

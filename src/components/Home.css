@@ -1,0 +1,28 @@
+
+.img {
+    width: 30%;
+    margin: auto;
+    padding-top: 5%;
+    display: flex;
+}
+
+.btn {
+    height: 60px;
+    width: 300px;
+    border-radius: 10px;
+    padding-top: 4px;
+    margin-top: 20px;
+    background-color: rgb(64, 211, 211);
+    font-weight: bold;
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(2, 2, 2);
+}
+
+.title {
+   padding-top: 5px;
+   color: aliceblue;
+}
+
